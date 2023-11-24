@@ -1,0 +1,7 @@
+.itemListContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(223, 223, 223);
+  padding-top: 3vh;
+  height: 100%;
+}

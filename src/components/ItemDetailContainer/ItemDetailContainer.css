@@ -1,0 +1,8 @@
+.itemDetailContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(223, 223, 223);
+  justify-content: center;
+  padding: 3vh 0vw;
+  height: 100%;
+}

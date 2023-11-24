@@ -1,0 +1,10 @@
+.itemCountButton {
+  color: #a9262c;
+  font-weight: bold;
+  font-size: 0.9rem;
+  height: 3vh;
+  padding: 0vh 1.5vh;
+  background-color: rgb(223, 223, 223);
+  margin: 1vh;
+  border: black solid 1.5px;
+}

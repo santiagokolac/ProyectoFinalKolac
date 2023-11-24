@@ -1,0 +1,8 @@
+.itemList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: left;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,17 @@
+.item {
+  background-color: #f3f3f3;
+  padding: 1vw;
+  margin-bottom: 2vw;
+  margin-left: 2.3vw;
+}
+
+.itemImg {
+  width: 20vw;
+  height: auto;
+}
+
+.itemLink {
+  text-decoration: none;
+  color: #a9262c;
+  font-weight: bold;
+}

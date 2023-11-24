@@ -1,0 +1,33 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background-color: #f3f3f3;
+  padding: 2vh 0vw;
+}
+.menu div {
+  width: 100%;
+}
+
+.flippedLogo {
+  width: 4vw;
+  height: 100%;
+}
+.categoryList {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0px !important;
+}
+
+.categoryList li {
+  list-style: none;
+}
+
+.categoryList a {
+  color: #a9262c;
+  text-decoration: none;
+  font-size: 2.5vh;
+}
